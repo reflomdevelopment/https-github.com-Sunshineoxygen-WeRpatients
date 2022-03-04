@@ -30,20 +30,18 @@ export const COLORS = {
 
 export const SIZES = {
     width,
-    height,
-    hp,
-    wp
+    height
 };
 
 export const FONTS = {
     FF_YM:"Roboto-Italic",
     largeTitle: { fontFamily: "Roboto-regular", fontSize: SIZES.largeTitle, lineHeight: 55 },
-    h1: { fontFamily: "Yantramanav-Bold",  fontSize: wf("9%"), lineHeight: 40 },
+    h1: { fontFamily: "Yantramanav-Bold",  fontSize: wf("9%"), lineHeight: 65 },
     h2: { fontFamily: "Yantramanav-Medium", fontSize: wf("5.5%"), },
     h3: { fontFamily: "Yantramanav-Medium", fontSize: wf("5%"), },
-    h4: { fontFamily: "Yantramanav-Regular", fontSize: wf("4%"), },
-    h5: { fontFamily: "Yantramanav-Regular", fontSize: wf("4%"), },
-    h522: { fontFamily: "Yantramanav-Regular", fontSize: wf("3.5%"), },
+   h4: { fontFamily: "Yantramanav-Regular", fontSize: wf("4%"), },
+   h5: { fontFamily: "Yantramanav-Regular", fontSize: wf("4%"), },
+   h522: { fontFamily: "Yantramanav-Regular", fontSize: wf("3.5%"), },
 
     body1: { fontFamily: "Roboto-Regular", fontSize: SIZES.body1, lineHeight: 36 },
     body2: { fontFamily: "Roboto-Regular", fontSize: SIZES.body2, lineHeight: 30 },

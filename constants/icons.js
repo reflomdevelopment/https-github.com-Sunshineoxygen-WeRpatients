@@ -42,6 +42,7 @@ export const removereq = require('../assets/icons/removereq.png')
 export const backpress = require('../assets/icons/backpress.png')
 export const MyAngel1 = require('../assets/icons/MyAngel.png');
 export const newnotification = require('../assets/icons/newnotification.png');
+export const InfoIcon = require('../assets/icons/InfoIcon.png');
 
 export default {
     Eye,
@@ -87,5 +88,6 @@ export default {
     PrivacyPolocy,
     loupe,
     removereq,
-    backpress
+    backpress,
+    InfoIcon
 }
